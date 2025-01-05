@@ -1,0 +1,11 @@
+controllers/
+├── authController.js           # التحكم بالمصادقة
+├── caregiverController.js      # التحكم بمقدمي الرعاية
+├── lovedOneController.js       # التحكم بالأشخاص المحتاجين للرعاية
+├── carePlanController.js       # التحكم بخطط الرعاية
+├── taskController.js           # التحكم بالمهام
+├── medicalHistoryController.js # التحكم بالسجل الطبي
+├── medicationController.js     # التحكم بالأدوية
+├── noteController.js          # التحكم بالملاحظات
+├── calendarController.js      # التحكم بالتقويم
+└── notificationController.js   # التحكم بالإشعارات 

@@ -1,0 +1,10 @@
+models/
+├── User.js              # نموذج المستخدم الأساسي
+├── Caregiver.js         # نموذج مقدم الرعاية
+├── LovedOne.js          # نموذج الشخص المحتاج للرعاية
+├── CarePlan.js          # نموذج خطة الرعاية
+├── Task.js              # نموذج المهام
+├── MedicalHistory.js    # نموذج السجل الطبي
+├── Medication.js        # نموذج الأدوية
+├── Note.js             # نموذج الملاحظات اليومية
+└── Notification.js      # نموذج الإشعارات 

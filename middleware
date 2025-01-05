@@ -1,0 +1,4 @@
+middleware/
+├── auth.js               # التحقق من المصادقة
+├── roleCheck.js         # التحقق من الصلاحيات
+└── validation.js        # التحقق من صحة البيانات 

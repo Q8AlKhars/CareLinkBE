@@ -1,0 +1,4 @@
+config/
+├── database.js          # إعدادات قاعدة البيانات
+├── auth.js             # إعدادات المصادقة
+└── notifications.js    # إعدادات الإشعارات 

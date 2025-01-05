@@ -1,0 +1,5 @@
+services/
+├── authService.js
+├── emailService.js        # خدمة البريد الإلكتروني للإشعارات
+├── calendarService.js    # خدمة مزامنة التقويم
+└── notificationService.js # خدمة الإشعارات 

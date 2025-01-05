@@ -1,0 +1,11 @@
+routes/
+├── authRoutes.js
+├── caregiverRoutes.js
+├── lovedOneRoutes.js
+├── carePlanRoutes.js
+├── taskRoutes.js
+├── medicalHistoryRoutes.js
+├── medicationRoutes.js
+├── noteRoutes.js
+├── calendarRoutes.js
+└── notificationRoutes.js 
