@@ -251,7 +251,7 @@ const medicationController = {
       await new ActivityLog({
         description: `Medication status updated: ${medication.name} - ${status}`,
         caregiver: caregiverId,
-        action_type: "MEDICATION_STATUS_UPDATE",
+        action_type: "MEDICATION_UPDATE",
         metadata: new Map([
           ["medication_id", medication_id],
           ["loved_one_id", loved_one_id],
